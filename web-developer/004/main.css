@@ -1,0 +1,26 @@
+/* comentários: 
+
+main {
+    color: red;
+}
+
+a {
+    color: red;
+    text-decoration-color: aqua;
+    border: 1px solid currentColor;
+}
+
+
+p {
+    background-color: rgb(216, 181, 216);
+}
+
+p {
+    background-color: #fff;
+}
+*/
+
+p {
+    background-color: hsl(300, 100%, 25%);
+    opacity: 50%;
+}
